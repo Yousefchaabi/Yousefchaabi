@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/chaabiiyousef" target="blank"><img src="https://img.shields.io/twitter/follow/chaabiiyousef?logo=twitter&style=for-the-badge" alt="chaabiiyousef" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React, Api & Data Structure**
+- 💬 Ask me about **React, Node, Express, DB, Architecture & Data Structure**
 
 - 📫 How to reach me **yousef.chaabii@gmail.com**
 
