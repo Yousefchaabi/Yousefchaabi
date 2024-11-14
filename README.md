@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **React Node.js Booking App**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Spring Boot, Spring Secuirity**
 
-- 💬 Ask me about **Architecture, DB , MEARN**
+- 💬 Ask me about **Architecture, DB , MERN**
 
 - 📫 How to reach me **yousef.chaabii@gmail.com**
 
